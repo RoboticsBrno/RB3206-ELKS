@@ -1,5 +1,6 @@
 # RB3206-ELKS
-## Features
+
+## Features:
 - Conventional LEDs
 - Buttons
 - Potentiometers
