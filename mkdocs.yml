@@ -1,0 +1,79 @@
+site_name: RB3206-ELKS
+site_url:
+site_author: RoboticsBrno
+site_description: >-
+  ELKS alias ESP Learning Kit for Starter is a development board for the ESP32 microcontroller.
+  It is designed to be used in the classroom and for educational purposes.
+
+# Repository
+repo_name: RoboticsBrno/RB3206-ELKS
+repo_url: https://github.com/RoboticsBrno/RB3206-ELKS
+
+# Copyright
+copyright: Copyright © 2023 RoboticsBrno
+
+theme:
+  name: material
+  language: en
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.top
+
+  icon:
+    repo: fontawesome/brands/github
+
+  palette:
+    - scheme: slate
+      primary: light green
+      accent: light green
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/RoboticsBrno
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/RobotikaBrno
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/robotarna
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@robotikabrno-robotarnaasps2392
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/_robotarna_
+#    analytics:
+#        provider: google
+#        property: G-XXXXXXXXXX
+
+use_directory_urls: True
+
+plugins:
+  - search
+  - glightbox
+  - i18n:
+      default_language: !ENV [DEFAULT_LANGUAGE, "en"]
+      default_language_only: !ENV [DEFAULT_LANGUAGE_ONLY, false]
+      docs_structure: suffix
+      languages:
+        default:
+          name: Default (en)
+          build: true
+        cs:
+          name: Czech (cs)
+          build: true
+          # site_name: "Fusion 360 - SVG postprocessor"
+      # nav_translations:
+      #   fr:
+      #     Topic1: Sujet1
+      #     Topic2: Sujet2
+  - git-revision-date-localized
+
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - attr_list
+
+nav:
+  - Home: 'README.md'

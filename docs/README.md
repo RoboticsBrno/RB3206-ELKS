@@ -16,11 +16,11 @@ This way you can take your ELKS with you anywhere and use it for your on-the-go 
 - Digilent PMOD connectors
 
 <div align="center">
-    <img src="./docs/media/elks-power.png" width="49%">
-    <img src="./docs/media/elks-box.png" width="49%">
+    <img src="./media/elks-power.png" width="49%">
+    <img src="./media/elks-box.png" width="49%">
 </div>
 
 <div align="center">
-    <img src="./docs/media/elks-render.png">
+    <img src="./media/elks-render.png">
 </div>
 
