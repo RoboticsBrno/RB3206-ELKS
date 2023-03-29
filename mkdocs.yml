@@ -51,6 +51,7 @@ use_directory_urls: True
 plugins:
   - search
   - glightbox
+  - open-in-new-tab
   - i18n:
       default_language: !ENV [DEFAULT_LANGUAGE, "en"]
       default_language_only: !ENV [DEFAULT_LANGUAGE_ONLY, false]
@@ -62,7 +63,7 @@ plugins:
         cs:
           name: Czech (cs)
           build: true
-          # site_name: "Fusion 360 - SVG postprocessor"
+          # site_name: RB3206-ELKS
       # nav_translations:
       #   fr:
       #     Topic1: Sujet1
@@ -74,9 +75,6 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
   - attr_list
-
-extra_javascript:
-  - assets/js/open_in_new_tab.js
 
 nav:
   - Home: 'README.md'

@@ -27,3 +27,7 @@ Desku lze napájet pomocí USB kabelu nebo power banky připojené přímo k des
 <div align="center">
     <img src="./media/elks-render.png">
 </div>
+
+## [S podporou Espressif Systems](https://www.espressif.com/)
+
+[![Espressif Systems](./assets/Espressif_Logo.jpg)](https://www.espressif.com/)

@@ -29,3 +29,7 @@ This way you can take your ELKS with you anywhere and use it for your on-the-go 
     <img src="./docs/media/elks-render.png">
 </div>
 
+
+## [With the support of Espressif Systems](https://www.espressif.com/)
+
+[![Espressif Systems](./docs/assets/Espressif_Logo.jpg)](https://www.espressif.com/)
