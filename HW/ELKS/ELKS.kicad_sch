@@ -1505,10 +1505,10 @@
       (reference "J9") (unit 1) (value "Conn_01x04") (footprint "Connector_JST:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/01ce5e0e-66be-42f5-9fb3-83fe0d35e7c3"
-      (reference "JP1") (unit 1) (value "Jumper_3_Bridged12") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal")
+      (reference "JP1") (unit 1) (value "Jumper_3_Bridged12") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/a24bf209-a9a3-4249-801f-7eaf8598ee78"
-      (reference "JP2") (unit 1) (value "Jumper_3_Bridged12") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal")
+      (reference "JP2") (unit 1) (value "Jumper_3_Bridged12") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/8b12a081-f055-41a0-9e9c-5c7d288eeced/d95edc3f-11d4-4db6-8608-bb42ceb4971e"
       (reference "Q1") (unit 1) (value "Q_NMOS_GSD") (footprint "Package_TO_SOT_SMD:SOT-23")
