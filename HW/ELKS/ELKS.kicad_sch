@@ -1496,7 +1496,7 @@
       (reference "J4") (unit 1) (value "Conn_02x03_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Horizontal")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/2d23eaf5-464c-45aa-bff3-486f20efd0a9"
-      (reference "J5") (unit 1) (value "Conn_01x03") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal")
+      (reference "J5") (unit 1) (value "Conn_01x03") (footprint "Connector_JST:JST_EH_S3B-EH_1x03_P2.50mm_Horizontal")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/bf5b07b8-3e10-4d14-83b3-0c3432ab853c"
       (reference "J6") (unit 1) (value "Conn_02x06_Odd_Even") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Horizontal")
