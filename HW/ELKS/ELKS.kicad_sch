@@ -1643,10 +1643,10 @@
       (reference "R40") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/8b12a081-f055-41a0-9e9c-5c7d288eeced/b9605053-bf9c-4544-8fa0-996b39633492"
-      (reference "RV1") (unit 1) (value "R_Potentiometer") (footprint "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical")
+      (reference "RV1") (unit 1) (value "R_Potentiometer") (footprint "Robotarna_KiCad_Library:RK09K113 (ELKS-POT)")
     )
     (path "/8b12a081-f055-41a0-9e9c-5c7d288eeced/cb1bd94d-07df-439d-9087-140826209885"
-      (reference "RV2") (unit 1) (value "R_Potentiometer") (footprint "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical")
+      (reference "RV2") (unit 1) (value "R_Potentiometer") (footprint "Robotarna_KiCad_Library:RK09K113 (ELKS-POT)")
     )
     (path "/8b12a081-f055-41a0-9e9c-5c7d288eeced/1760ba51-4548-4640-8bbf-208148ebdd33"
       (reference "SW1") (unit 1) (value "SW") (footprint "Robotarna_KiCad_Library:Tactile_switch")
