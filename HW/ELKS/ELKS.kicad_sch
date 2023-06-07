@@ -1523,28 +1523,28 @@
       (reference "Q4") (unit 1) (value "Q_NMOS_GSD") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/8b12a081-f055-41a0-9e9c-5c7d288eeced/067f2e39-1316-4684-bac5-3d4720505964"
-      (reference "R1") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R1") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/8b12a081-f055-41a0-9e9c-5c7d288eeced/260d1a71-89c4-4401-b54f-16bf5c984889"
-      (reference "R2") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R2") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/8b12a081-f055-41a0-9e9c-5c7d288eeced/4e345769-3e9f-4774-b53a-2131f4935f2d"
-      (reference "R3") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R3") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/8b12a081-f055-41a0-9e9c-5c7d288eeced/0931734d-1e42-4d20-b6c8-5eaeaa5339e3"
-      (reference "R4") (unit 1) (value "10k") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "R4") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/8b12a081-f055-41a0-9e9c-5c7d288eeced/98732d66-5b74-4732-b128-fd9dfbab8046"
-      (reference "R5") (unit 1) (value "10k") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "R5") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/8b12a081-f055-41a0-9e9c-5c7d288eeced/69ad812c-0d5f-41e2-a8b0-0d70cd7e3a07"
-      (reference "R6") (unit 1) (value "10k") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "R6") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/8b12a081-f055-41a0-9e9c-5c7d288eeced/0ef572e0-e1b9-4fe3-ad9b-4dbdd011dac0"
-      (reference "R7") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R7") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/8b12a081-f055-41a0-9e9c-5c7d288eeced/2fa416a5-d9e1-4498-8cea-e32dfd9b7c94"
-      (reference "R8") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R8") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/8b12a081-f055-41a0-9e9c-5c7d288eeced/a1af4ce8-84f3-4d8c-be47-712324d1e296"
       (reference "R9") (unit 1) (value "330") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -1553,13 +1553,13 @@
       (reference "R10") (unit 1) (value "330") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/8b12a081-f055-41a0-9e9c-5c7d288eeced/d0290f8f-6f29-44ef-879d-5b0d144cbd7d"
-      (reference "R11") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R11") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/8b12a081-f055-41a0-9e9c-5c7d288eeced/99d10f9a-7012-462d-bfb8-5c1e330cd6fa"
       (reference "R12") (unit 1) (value "330") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/8b12a081-f055-41a0-9e9c-5c7d288eeced/750eb37d-8487-43e1-b1cc-735a911edff4"
-      (reference "R13") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R13") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/8b12a081-f055-41a0-9e9c-5c7d288eeced/9b0de0f6-4030-4744-a6c2-60ed788045b2"
       (reference "R14") (unit 1) (value "330") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -1571,76 +1571,76 @@
       (reference "R16") (unit 1) (value "5k1") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/ca05e6fa-9b62-4bfb-a2d0-88835d1744bd"
-      (reference "R17") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R17") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/dc7a41fc-62bc-47a6-b606-e38317e2157b"
-      (reference "R18") (unit 1) (value "10k") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "R18") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/6591e61f-3ba8-47b3-aa9e-be55395d9c3b"
-      (reference "R19") (unit 1) (value "10k") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "R19") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/0d7e390f-f4cc-4d8b-ace3-6db9eb2ebfd8"
-      (reference "R20") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R20") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/6273905a-4b41-449a-83c1-70810071b9df"
-      (reference "R21") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R21") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/b8cc4de7-475d-40a6-8c2b-b0556b69ea3f"
-      (reference "R22") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R22") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/a37fc628-b966-4a8d-af48-bbb31d5823a9"
-      (reference "R23") (unit 1) (value "10k") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "R23") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/8acade5a-b874-4cb2-b9c2-ae3870393f86"
-      (reference "R24") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R24") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/dbb584da-2e03-4b5a-aaba-8adbc6b16c00"
-      (reference "R25") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R25") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/45380c3f-c7a1-4e32-a927-2884abe011d7"
-      (reference "R26") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R26") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/28e64364-67c7-4083-9a10-0871df0bd67a"
-      (reference "R27") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R27") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/74d52827-9283-49a9-b7f5-9a4ccf87637e"
-      (reference "R28") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R28") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/47b07c5d-51e6-4c26-8dc3-613248f7d6b4"
-      (reference "R29") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R29") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/b9756f7d-8d28-4b47-b19c-79a35f95c65f"
-      (reference "R30") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R30") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/c4888977-83ad-4a45-9a3f-53692d73d016"
-      (reference "R31") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R31") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/804b16a8-b549-45a1-90ee-1c34db736fc6"
-      (reference "R32") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R32") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/e0338973-b7f9-42e6-bb44-dde885d4c015"
-      (reference "R33") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R33") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/3e7ac9a3-e31e-4792-9125-4cc171ee761f"
-      (reference "R34") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R34") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/657c2f9d-89bc-44a5-8179-1e7f21fcaf92"
-      (reference "R35") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R35") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/630c44c7-c43a-47fa-9e60-826b27c88ad3"
-      (reference "R36") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R36") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/ec676412-b252-438c-9022-124b9a5ed634"
-      (reference "R37") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R37") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/b12c66fe-1171-456d-b7d6-1b0fd9a752e1"
-      (reference "R38") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R38") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/126dc6ef-5336-418b-9911-ee2e3894bb9b"
-      (reference "R39") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R39") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/4bcc0537-3751-441f-9941-8492b8ace5cf"
-      (reference "R40") (unit 1) (value "180") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "R40") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/8b12a081-f055-41a0-9e9c-5c7d288eeced/b9605053-bf9c-4544-8fa0-996b39633492"
       (reference "RV1") (unit 1) (value "R_Potentiometer") (footprint "Robotarna_KiCad_Library:RK09K113 (ELKS-POT)")
