@@ -1642,6 +1642,12 @@
     (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/4bcc0537-3751-441f-9941-8492b8ace5cf"
       (reference "R40") (unit 1) (value "180") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
+    (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/217b4f7e-1cfc-436b-8583-e28ae8ef7785"
+      (reference "R41") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/63c424ce-24ae-4950-94fd-89e18fc8d0e9/bb90af44-ddc9-4461-b034-ff8a8f5380b2"
+      (reference "R42") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
     (path "/8b12a081-f055-41a0-9e9c-5c7d288eeced/b9605053-bf9c-4544-8fa0-996b39633492"
       (reference "RV1") (unit 1) (value "R_Potentiometer") (footprint "Robotarna_KiCad_Library:RK09K113 (ELKS-POT)")
     )
