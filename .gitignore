@@ -1,2 +1,4 @@
 # For PCBs designed using EasyEDA:
 .DS_Store
+*.lck
+HW/ELKS/#auto_saved_files#
